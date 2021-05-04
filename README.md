@@ -16,7 +16,14 @@
 ![image](https://user-images.githubusercontent.com/81254764/117061144-0a7cc180-ad4c-11eb-8a3b-d2dbfccddb94.png)
 
 6. Tambahkan variabel seperti berikut
-![image](https://user-images.githubusercontent.com/81254764/117065698-02278500-ad52-11eb-90ab-5cbec5074218.png)
-![image](https://user-images.githubusercontent.com/81254764/117067133-d3aaa980-ad53-11eb-9e8e-c3ada01e8e13.png)
+![image](https://user-images.githubusercontent.com/81254764/117071198-f68b8c80-ad58-11eb-8ff5-8b9042e715e3.png)
+![image](https://user-images.githubusercontent.com/81254764/117071222-01462180-ad59-11eb-86e0-a1d957a2e44a.png)
 
-7. 
+7. Buat file baru dengan nama latihan2.php lalu ketikan perintah seperti berikut
+![image](https://user-images.githubusercontent.com/81254764/117071328-2c307580-ad59-11eb-8356-986505b00763.png)
+
+8. Buka menggunakan url=http://localhost/lab7_php_dasar/latihan2.php?nama=Ahmad%20Rosyidin
+![image](https://user-images.githubusercontent.com/81254764/117071405-4a967100-ad59-11eb-949a-f4f5c3703e61.png)
+
+<b>Membuat Form Input</b>
+1. 
