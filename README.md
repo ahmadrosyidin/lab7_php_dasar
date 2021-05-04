@@ -26,4 +26,13 @@
 ![image](https://user-images.githubusercontent.com/81254764/117071405-4a967100-ad59-11eb-949a-f4f5c3703e61.png)
 
 <b>Membuat Form Input</b>
-1. 
+
+1. buat folder baru lalu ketik perintah seperti berikut
+![image](https://user-images.githubusercontent.com/81254764/117073139-b4b01580-ad5b-11eb-974a-cdda5b619c2d.png)
+
+2. Save, lalu buka pada browser
+![image](https://user-images.githubusercontent.com/81254764/117073254-db6e4c00-ad5b-11eb-83e3-729799b071c1.png)
+
+3. Tuliskan nama pada kolom lalu kirim
+![image](https://user-images.githubusercontent.com/81254764/117073345-fa6cde00-ad5b-11eb-82b9-23cee1fb0265.png)
+![image](https://user-images.githubusercontent.com/81254764/117073378-03f64600-ad5c-11eb-802e-f21b0954d6aa.png)
