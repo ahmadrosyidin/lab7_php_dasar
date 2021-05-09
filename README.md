@@ -36,3 +36,18 @@
 3. Tuliskan nama pada kolom lalu kirim
 ![image](https://user-images.githubusercontent.com/81254764/117073345-fa6cde00-ad5b-11eb-82b9-23cee1fb0265.png)
 ![image](https://user-images.githubusercontent.com/81254764/117073378-03f64600-ad5c-11eb-802e-f21b0954d6aa.png)
+
+4. Buat file database seperti berikut
+![image](https://user-images.githubusercontent.com/81254764/117572221-0f4ec600-b0fc-11eb-929d-74eb1ef7f9d8.png)
+![image](https://user-images.githubusercontent.com/81254764/117572220-0f4ec600-b0fc-11eb-85a8-9cff37a6afe8.png)
+
+5. Lalu buat file untuk form output nya, disini saya menamai file dengan nama index.php
+![image](https://user-images.githubusercontent.com/81254764/117572296-7bc9c500-b0fc-11eb-898c-10056295a758.png)
+
+6. Lalu buka pada brower http://localhost/lab7_php_dasar/index.php dan isi nama
+![image](https://user-images.githubusercontent.com/81254764/117572329-a3209200-b0fc-11eb-9c8f-5f59d57de01a.png)
+
+7. Klik submit
+![image](https://user-images.githubusercontent.com/81254764/117572391-debb5c00-b0fc-11eb-807c-c4c859b139b9.png)
+
+
